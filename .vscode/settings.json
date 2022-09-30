@@ -1,11 +1,13 @@
 {
   "cSpell.words": [
-    "Flickr",
-    "Murach",
-    "Vecta",
     "airbnb",
+    "Dribbble",
+    "Flickr",
     "jquery",
-    "Unstyled"
+    "Murach",
+    "Ranken",
+    "Unstyled",
+    "Vecta"
   ],
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[javascript]": {
@@ -20,5 +22,8 @@
   "prettier.printWidth": 120,
   "prettier.singleQuote": true,
   "prettier.tabWidth": 2,
-  "prettier.semi": true
+  "prettier.semi": true,
+  "cSpell.ignoreWords": [
+    "ajlkn"
+  ]
 }
